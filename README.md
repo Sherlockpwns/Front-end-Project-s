@@ -6,7 +6,7 @@ Below is a list of all projects i have done which are in this resository
 ## Cat App 
 - This was the first project I have made
  
-Code used 
+Code Used 
  - html 
 
 ## Fashion Blog 
