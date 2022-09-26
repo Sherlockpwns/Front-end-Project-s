@@ -32,5 +32,11 @@ Code Used
 ## Healthy Recipies 
 - in this task I had to make a style sheet using critria set by the client to make the webpage stand out using css. 
 Code Used 
-- html 
+- html was supplied 
 - css
+
+## Olivia Woodruff Portolio challange 
+- In this project, you’ll use your knowledge of CSS visual rules to create rule sets and improve the appearance of a photography portfolio site!
+Code Used 
+-html was supplied 
+-css
