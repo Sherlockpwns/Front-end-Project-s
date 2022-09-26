@@ -18,6 +18,7 @@ Code Used
 ## New York Blog 
 
 - This task was the 3rd project where I learned the basics of HTML and the use of a sperate sytle sheet. 
+
 Code Used 
  - html 
  - css
@@ -25,6 +26,7 @@ Code Used
 
 ## Vacation Spots 
 - This task was the 4th project which on I had to build a webpage and then change fonts and styles according to the tasks ( hence why this one is a mish mash site).
+
 Code Used 
 - html 
 - css
