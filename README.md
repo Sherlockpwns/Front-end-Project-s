@@ -7,7 +7,10 @@ Below is a list of all projects i have done which are in this resository
 - This was the first project I have made via HTML 
 
 ## Fashion Blog 
-- This was my  2nd project the task was t create a fashion blog which held the images and infomation provided by the user and had to make a quick HTML blog only using html.
+- This was my  2nd project the task was t create a fashion blog which held the images and infomation provided by the user and had to make a quick HTML blog
+
+#### code used 
+- html
 
 ## New York Blog 
 
