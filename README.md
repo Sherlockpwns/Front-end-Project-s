@@ -3,7 +3,7 @@ This is a repository of the combination of learning which I have done from vario
 Below is a list of all projects i have done which are in this resository
 
 
-## Cat app 
+## Cat App 
 - this was the first project I have made via HTML 
 
 ## New York Blog 
