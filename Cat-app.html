@@ -1,0 +1,67 @@
+ <!DOCTYPE html> <!-- This always needs to be at the top of the page -->
+
+<html lang="en">  <!-- I have set the standard setting to english lanague -->
+ <head>
+    <title>CatPhotoApp</title>  <!-- title element -->
+    <meta charset="utf-8" />  <!-- You should allow people to use their native language. Tell the browser to encode multiple language--> 
+  </head>
+ <body>
+    <h1>CatPhotoApp</h1>   <!-- heading of the page -->
+    <main>
+      <section>   <!-- first section -->
+        <h2>Cat Photos</h2>  
+        <!-- in the pararagh section i have added a internal link to see more cat photos will be hyperlinked -->
+        <p>Click here to view more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a>.</p>
+        <a href="https://freecatphotoapp.com"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+      </section>  <!-- end of first section-->
+      <section>  <!-- start of section 2 -->
+        <h2>Cat Lists</h2>
+        <h3>Things cats love:</h3>
+        <ul>  <!-- this is an unordered list so its not numbered -->
+          <li>cat nip</li>
+          <li>laser pointers</li>
+          <li>lasagna</li>
+        </ul>
+        <figure>  <!-- he <figure> HTML element represents self-contained content, potentially with an optional caption, which is specified using the <figcaption>-->
+          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+          <figcaption>Cats <em>love</em> lasagna.</figcaption>  
+        </figure>
+        <h3>Top 3 things cats hate:</h3>
+        <ol>
+          <li>flea treatment</li>
+          <li>thunder</li>
+          <li>other cats</li>
+        </ol>
+        <figure>
+          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Five cats looking around a field.">
+          <figcaption>Cats <strong>hate</strong> other cats.</figcaption>   <!-- element represents a caption or legend describing the rest of the contents of its parent figure -->
+        </figure>
+      </section> <!-- end of second section-->
+      <section> <!-- thrid section-->
+        <h2>Cat Form</h2>
+        <form action="https://freecatphotoapp.com/submit-cat-photo">
+          <fieldset>   <!-- this element provides a grouping for a part of an HTML form, with a nested legend-->
+            <legend>Is your cat an indoor or outdoor cat?</legend>
+           <!-- Below i have made radio bittons so people can select these aresmall circles also have geiven them a vaule -->
+            <label><input id="indoor" type="radio" name="indoor-outdoor" value="indoor" checked> Indoor</label>
+            <label><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor</label>
+          </fieldset>
+          <fieldset>
+            <legend>What's your cat's personality?</legend>
+           <!-- Inseat of a radio i ahve given them a checkbox so the user can check the box giveing multiple options -->
+            <input id="loving" type="checkbox" name="personality" value="loving" checked> <label for="loving">Loving</label>  
+            <input id="lazy" type="checkbox" name="personality" value="lazy"> <label for="lazy">Lazy</label>
+            <input id="energetic" type="checkbox" name="personality" value="energetic"> <label for="energetic">Energetic</label>
+          </fieldset>
+          <input type="text" name="catphotourl" placeholder="cat photo URL" required>
+          <button type="submit">Submit</button>  <!-- here i have made a button so the user can submit items -->
+        </form>
+      </section>
+    </main>
+    <footer>  <!-- this is the footer and included infomation as seen below about the copyright status etc -->
+      <p>
+        No Copyright - <a href="https://www.freecodecamp.org">freeCodeCamp.org</a>
+      </p>
+    </footer>
+  </body>
+</html>
