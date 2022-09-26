@@ -5,6 +5,6 @@ This is a repository of the combination of learning which I have done from vario
 # Cat app 
 - this was the first project i have made via HTML 
 
-#New York Blog 
+# New York Blog 
 
 - This was the second project where I learned the basics of HTML and the use of a sperate sytle sheet. 
