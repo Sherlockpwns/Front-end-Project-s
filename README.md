@@ -14,5 +14,5 @@ Below is a list of all projects i have done which are in this resository
 - This task was the 3rd project where I learned the basics of HTML and the use of a sperate sytle sheet. 
 
 
-## Vacation spots 
+## Vacation Spots 
 - This task was the 4th project which on I had to build a webpage and then change fonts and styles according to the tasks ( hence why this one is a mish mash site).
